@@ -39,3 +39,15 @@
 自然语言处理、数据挖掘与深度学习的应用目前已成为互联行业三大热点，而自然语言处理结合数学、计算机科学、语言学一体，门槛较高。本书是作者总结多年在自然语言处理方面学习和研究的成果，理论结合实战，由浅入深，是本适合初学者的领路书籍。
 
 
+【自然语言处理理论与实战 】</a>已经预售，可在<a href="https://search.jd.com/Search?keyword=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98&enc=utf-8&wq=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98&pvid=2c9d66d27b764755a0e28a3849856546" style="color:green">京东</a>、
+<a href=" https://s.taobao.com/search?q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170306" style="color:green">
+淘宝
+</a>、
+<a href="https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98 " style="color:green">
+亚马逊
+</a>、
+<a href="http://search.dangdang.com/?key=%D7%D4%C8%BB%D3%EF%D1%D4%B4%A6%C0%ED%C0%ED%C2%DB%D3%EB%CA%B5%D5%BD&act=input " style="color:green">
+当当
+</a>等网站购买....
+<br/><br/>
+
