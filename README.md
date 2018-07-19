@@ -1,5 +1,3 @@
-《自然语言处理理论与实战》（试读版）
- 
  【自然语言处理理论与实战 】</a>已经预售，可在<a href="https://search.jd.com/Search?keyword=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98&enc=utf-8&wq=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98&pvid=2c9d66d27b764755a0e28a3849856546" style="color:green">京东</a>、
 <a href=" https://s.taobao.com/search?q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170306" style="color:green">
 淘宝
