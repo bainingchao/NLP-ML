@@ -1,34 +1,13 @@
- 【自然语言处理理论与实战 】</a>已经预售，可在<a href="https://search.jd.com/Search?keyword=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98&enc=utf-8&wq=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98&pvid=2c9d66d27b764755a0e28a3849856546" style="color:green">京东</a>、
-<a href=" https://s.taobao.com/search?q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170306" style="color:green">
-淘宝
-</a>、
-<a href="https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%88%98 " style="color:green">
-亚马逊
-</a>、
-<a href="http://search.dangdang.com/?key=%D7%D4%C8%BB%D3%EF%D1%D4%B4%A6%C0%ED%C0%ED%C2%DB%D3%EB%CA%B5%D5%BD&act=input " style="color:green">
-当当
-</a>等网站购买....
-<br/><br/>
+ # 自然语言处理理论与实战源码下载
+ 
+> 机器学习和自然语言（QQ群号：436303759）是一个研究深度学习、机器学习、自然语言处理、数据挖掘、图像处理、目标检测、数据科学等AI相关领域的技术群。其宗旨是纯粹的AI技术圈子、绿色的交流环境。
 
 
-
-<a href="https://www.cnblogs.com/baiboy/p/nlpbook.html" style="font-weight:bold;font-size:13px;font-family:Times New Roman;color:green;"  alt="点击此链接，查看详细信息."  title="点击此链接，查看详细信息"  >【图书详情】(点击查看)</a>
-
-<br/>
-<a href="https://item.jd.com/30152156742.html" >
-<img  src="https://images2018.cnblogs.com/blog/380252/201807/380252-20180703174540634-442109587.jpg"  style=" margin: -5px 2px -70px -60px;height:400px; width: 300px"  alt="自然语言处理和机器学习:唐聃 白宁超 冯暄 等著"  title="自然语言处理和机器学习:唐聃 白宁超 冯暄 等著" ></img>
-</a>
-
-<p  style="font-size:10px;font-family:"serif"; ">
-该书由清华大学教授、博士生导师王道顺；电子科技大学教授、博士生导师周世杰；中国科学院研究员、博士生导师崔喆；百度企业智能平台，大数据高级工程师 潘耀峰；美团点评，大数据研发工程师陆志君；英国哈德斯菲尔德大学，人工智能博士张朝龙联合推荐。
-</p>
-
-
-内容介绍
+## 内容介绍
 
 本书分四个部分，第一部分主要介绍基础知识，包括认识机器学习和自然语言处理、快速上手Python、线性代数、概率论和统计学；第二部分主要介绍自然语言处理技术，包括自然语言处理介绍、语料库技术、中文分词、数据预处理、马尔科夫模型、条件随机场、模型评估、剖析自然处理工具背后的原理；第三部分主要介绍机器学习技术，包括认识机器学习、常见机器学习算法、机器学习算法案例源码实现。第四部分主要介绍工程项目实践，包括Python项目实战、自然语言处理项目实战、机器学习结合自然语言处理综合项目实战。
 
-作者介绍
+## 作者介绍
 
 唐聃，男，教授，中科院工学博士。现工作于成都信息工程大学软件工程学院。研究方向包括自然语言处理、信息安全、数据分析。曾参与多项国家863项目和中科院知识创新工程项目、省科技厅和教育厅项目；2016年入选中国科学院西部之光人才计划（中国科学院西部青年学者）。
 白宁超，男，硕士学位。现工作于四川省计算机研究院，自然语言处理工程师。研究方向主要包括自然语言处理和机器学习，自然语言处理和机器学习相关的系列博文曾被CSDN、阿里云栖等多个平台转载。曾参与多项四川省科技厅项目。
