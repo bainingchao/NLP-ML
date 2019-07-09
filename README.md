@@ -18,7 +18,7 @@
 
 堆栈应该是后进先出，队列应该是先进先出
 
-![img](http://download.broadview.com.cn/Original/19030c92007afb783abd)
+
 
 （2）页码：42  •  行数：倒数第一  
 
@@ -30,8 +30,7 @@
 
 ![1562661058162](https://github.com/bainingchao/imgurl/blob/master/typoraImg/20190709/1562661058162.png?raw=true)
 
-​                                           
-
+                                          
 （4）页码：46   行数：13 
 
 向量积运算率第二条修改如下：
